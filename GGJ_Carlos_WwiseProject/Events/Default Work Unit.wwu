@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{B9738EAC-36CC-4E65-954A-467263075922}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{B9738EAC-36CC-4E65-954A-467263075922}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="test" ID="{9E8592CA-AB89-45CA-845E-4ACE6D8CE5B7}">
+					<ChildrenList>
+						<Action Name="" ID="{A4D14BFE-7C96-4C8A-B7D6-1A52F435B2C6}" ShortID="745421853">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sx_player_fs_run_dirt_01" ID="{0FA67ACF-54B2-430E-848A-3CE201AA57F2}" WorkUnitID="{5C71C396-D447-4DFB-A6E3-7585BF847A87}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

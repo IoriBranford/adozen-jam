@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Wwise
+.cache/*
+*.akd
+*.prof
+*.wsettings
+*.validationcache
+*.wem
