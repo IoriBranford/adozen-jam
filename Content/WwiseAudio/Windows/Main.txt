@@ -1,6 +1,0 @@
-Event	ID	Name			Wwise Object Path	Notes
-	3157003241	test			\Default Work Unit\test	
-
-In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	10588875	sx_player_fs_run_dirt_01	D:\Work\GGJ_Carlos\GGJ_Carlos_WwiseProject\.cache\Windows\SFX\sx_player_fs_run_dirt_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\sx_player_fs_run_dirt_01		75840
-
